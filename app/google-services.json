@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "469771574282",
+    "firebase_url": "https://trang-cherry-beauty-default-rtdb.firebaseio.com",
+    "project_id": "trang-cherry-beauty",
+    "storage_bucket": "trang-cherry-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469771574282:android:cea53ab011597e0d1a93f3",
+        "android_client_info": {
+          "package_name": "trangcherry.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09RiRpN2TlFhyV3GEY-pYdMiN780ePbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469771574282:android:d406c36602fb90cd1a93f3",
+        "android_client_info": {
+          "package_name": "trangcherry.ezs1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09RiRpN2TlFhyV3GEY-pYdMiN780ePbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
